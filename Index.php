@@ -35,6 +35,7 @@ class Index extends common
 
 
         exit();
+        //
 //        $data = Db::name('airport_data')->select();
 //        $data = [
 //            'yes'=>[1,2,3],
