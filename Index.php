@@ -12,6 +12,11 @@ use think\Db;
 class Index extends common
 {
 
+    /**
+     * Index constructor.
+     * @param array $items
+     * 你看这是个测试可视化工具的工具测试 继续搞事
+     */
     public function __construct($items = [])
     {
         parent::__construct($items);
