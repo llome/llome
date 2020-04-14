@@ -29,7 +29,6 @@ class Index extends common
 
         $user = model('AirportData');
         $data = $user->select();
-
         echo "<pre>";
         print_r($data);
 
