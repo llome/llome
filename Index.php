@@ -68,8 +68,6 @@ class Index extends common
         ];
         Header("HTTP/1.1 201 Created");
         echo json_encode($jsonList); //返回给客户端token信息
-
-
         exit();
 
         /**
