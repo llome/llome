@@ -11,7 +11,7 @@ use app\commom\Jsonmsg;
 use think\Db;
 class Index extends common
 {
-
+22222222222
     /**
      * Index constructor.
      * @param array $items
