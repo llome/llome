@@ -39,7 +39,7 @@ class Index extends common
 //            'yes'=>[1,2,3],
 //            'none'=>['o','p','q']
 //        ];
-        return parent::jsonmag(11, '返回成功', $data);
+        return parent::jsonmag(1, '返回成功', $data);
 
 
         exit();
