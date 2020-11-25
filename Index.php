@@ -12,6 +12,7 @@ use think\Db;
 class Index extends common
 {
 22222222222
+1
     /**
      * Index constructor.
      * @param array $items
